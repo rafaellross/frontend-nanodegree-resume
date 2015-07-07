@@ -58,7 +58,7 @@ var education = {
 	},
 	{
 		"name": "Faculdade Sumare",
-		"location": "Sao Paulo",
+		"location": "Sumare",
 		"degree": "Undergraduate",
 		"majors": ["Computer Science", "Information Technology"],
 		"dates": 2013,
